@@ -86,8 +86,6 @@ app.UseCors(builder => builder.WithOrigins("http://localhost:3000")
                             .AllowAnyHeader()
                             .AllowAnyMethod());
 
-app.UseAuthentication();
-app.UseAuthorization();
 app.UseApiVersioning();
 app.UseEndpoints(endpoints =>
 {
