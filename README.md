@@ -20,7 +20,7 @@ ___
 * AutoMapper
 * FluentValidation
 * MemoryCache
-* AddApiVersioning Microsoft.AspNetCore.Mvc.Versioning
+* Microsoft.AspNetCore.Mvc.Versioning
 * xUnit. Unit tests, integration tests, functional tests. 
 ___
 ####  https//localhost:5001/index.html ![Localhost 5001 index html](https://github.com/user-attachments/assets/14b930ec-c8cd-4a51-a892-4448935c1343)
