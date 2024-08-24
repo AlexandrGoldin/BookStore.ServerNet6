@@ -28,6 +28,6 @@ ______
 #### Method GET /api/{version}/Users/Index  
 #### Gets the list of products(books) ![GET api version Users](https://github.com/user-attachments/assets/1b4ffd97-9b9b-4e6a-8bf3-755776070cbb)
 ____
-#### GET /api/{version}/Admin/Index  
+#### Method GET /api/{version}/Admin/Index  
 #### Gets the list of orders ![GET api version Admin Index](https://github.com/user-attachments/assets/2054c255-9231-4fea-ab1c-4ef35da631bc)
 
