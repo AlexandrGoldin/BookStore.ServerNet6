@@ -20,5 +20,6 @@ ___
 * AutoMapper
 * FluentValidation
 * MemoryCache
+* AddApiVersioning Microsoft.AspNetCore.Mvc.Versioning
 * xUnit. Unit tests, integration tests, functional tests. 
 ___
