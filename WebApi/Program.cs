@@ -41,14 +41,6 @@ builder.Services.AddTransient<IConfigureOptions<SwaggerGenOptions>,
 
 builder.Services.AddApiVersioning();
 
-//Log.Logger = new LoggerConfiguration()
-//    .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
-//    .WriteTo.Console()
-//    .WriteTo.File(new JsonFormatter(), @"Logs\log-.txt", rollingInterval:
-//        RollingInterval.Minute)
-//    .CreateLogger();
-//builder.Host.UseSerilog(Log.Logger);
-
 var app = builder.Build();
 
 
