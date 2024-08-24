@@ -25,7 +25,9 @@ ___
 ___
 #### The main page ![the main page](https://github.com/user-attachments/assets/7a39eaf1-f124-46c5-8d47-b8fcd3211ca1)
 ______
-#### Method GET /api/{version}/Users/Index  Gets the list of products(books) ![GET api version Users](https://github.com/user-attachments/assets/1b4ffd97-9b9b-4e6a-8bf3-755776070cbb)
+#### Method GET /api/{version}/Users/Index  
+#### Gets the list of products(books) ![GET api version Users](https://github.com/user-attachments/assets/1b4ffd97-9b9b-4e6a-8bf3-755776070cbb)
 ____
-#### GET /api/{version}/Admin/Index  Gets the list of orders ![GET api version Admin Index](https://github.com/user-attachments/assets/2054c255-9231-4fea-ab1c-4ef35da631bc)
+#### GET /api/{version}/Admin/Index  
+#### Gets the list of orders ![GET api version Admin Index](https://github.com/user-attachments/assets/2054c255-9231-4fea-ab1c-4ef35da631bc)
 
