@@ -10,7 +10,7 @@ ___
 * Dapper for Queries
 * N-tier architecture
 * ASP.NET Core 6
-* Web API
+* Web API/REST
 * CORS
 * CQRS Mediatr library
 * Global exception handler middleware
