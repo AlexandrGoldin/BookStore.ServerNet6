@@ -24,3 +24,6 @@ ___
 * xUnit. Unit tests, integration tests, functional tests. 
 ___
 #### The main page ![the main page](https://github.com/user-attachments/assets/7a39eaf1-f124-46c5-8d47-b8fcd3211ca1)
+______
+#### Method GET /api/{version}/Users ![GET api version Users](https://github.com/user-attachments/assets/1b4ffd97-9b9b-4e6a-8bf3-755776070cbb)
+
